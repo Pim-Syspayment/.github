@@ -2,14 +2,14 @@
 
 **Empresa:** Syspayment
 
-| Nome | Ra | Observação |
-| --- | --- | --- |
-| Joāo Vitor Lopes Galvāo | N018496 | Scrum Master |
-| Diego Bueno Martins | N0339B3 | Product Owner |
-| Marco Antonio Nogueira de Lima | G0238B5 | Product Owner 2 |
-| Victor Henrique Barbosa de Andrade | G45EFC3 | Dev Team |
-| Matheus Junichi Takano | G472152 | Dev Team |
-| Gabriella B. Fagnani | T597EJ5 | Dev Team |
+| Nome                               | Ra      | Observação      |
+| ---------------------------------- | ------- | --------------- |
+| Joāo Vitor Lopes Galvāo            | N018496 | Scrum Master    |
+| Diego Bueno Martins                | N0339B3 | Product Owner   |
+| Marco Antonio Nogueira de Lima     | G0238B5 | Product Owner 2 |
+| Victor Henrique Barbosa de Andrade | G45EFC3 | Dev Team        |
+| Matheus Junichi Takano             | G472152 | Dev Team        |
+| Gabriella B. Fagnani               | T597EJ5 | Dev Team        |
 
 ---
 
@@ -19,9 +19,9 @@
 2. Priorizar as tasks por nível de importância e dependência
 3. Revisar os diagramas de caso de uso
 4. Criar os repositórios no Github
-    1. Repositório para o sistema Desktop - C#
-    2. Repositório para o sistema Web - Asp.net
-    3. Repositório para o sistema Mobile - Flutter
+   1. Repositório para o sistema Desktop - C#
+   2. Repositório para o sistema Web - Asp.net
+   3. Repositório para o sistema Mobile - Flutter
 5. Revisar os requisitos
 6. Revisar o diagrama de classe
 7. Revisar o diagrama de sequência
@@ -39,7 +39,7 @@
     2. Visualizar todos os perfis (Em tabela)
     3. Busca
     4. Visualizar individual
-    5. Criar 
+    5. Criar
     6. Editar
     7. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
 15. Tela de Login desktop
@@ -163,203 +163,203 @@
 
 ## Sprint backlog 1 - (14/08 até 20/08)
 
-- [x]  Levantar as tarefas (tasks) do Backlog **- Todos da equipe**
-- [x]  Priorizar as tasks por nível de importância e dependência **- Todos da equipe**
-- [x]  Revisar os diagramas de caso de uso **- Todos da equipe**
-- [x]  Criar os repositórios no Github **- João**
-    1. Repositório para o sistema Desktop - C#
-    2. Repositório para o sistema Web - Asp.net
-    3. Repositório para o sistema Mobile - Flutter
+- [x] Levantar as tarefas (tasks) do Backlog **- Todos da equipe**
+- [x] Priorizar as tasks por nível de importância e dependência **- Todos da equipe**
+- [x] Revisar os diagramas de caso de uso **- Todos da equipe**
+- [x] Criar os repositórios no Github **- João**
+  1. Repositório para o sistema Desktop - C#
+  2. Repositório para o sistema Web - Asp.net
+  3. Repositório para o sistema Mobile - Flutter
 
 ## Sprint backlog 2 - (21/08 até 27/08)
 
-- [x]  Revisar os requisitos **- Todos da equipe**
-- [x]  Revisar o diagrama de classe **- Todos da equipe**
+- [x] Revisar os requisitos **- Todos da equipe**
+- [x] Revisar o diagrama de classe **- Todos da equipe**
 
 ## Sprint backlog 3 - (28/08 até 03/09)
 
-- [x]  Revisar o diagrama de sequência
-    - [x]  Entrar no sistema **- Matheus**
-    - [x]  Sair do sistema **- Matheus**
-    - [x]  Gerar folha de pagamento
-    - [x]  Função Criar (create) **- João**
-    - [x]  Função Visualizar (read) **- João**
-    - [x]  Função Editar (update) **- João**
-    - [x]  Função Deletar/Inativar (delete) **- Marco**
-    - [x]  Função Buscar **- Marco**
-    - [x]  Visualizar Perfil **- Victor**
-    - [x]  Alterar propria senha **- Victor**
-    - [x]  Visualizar Holerites no Mobile **- Gabriella**
-    - [x]  Visualizar Operações no Mobile **- Gabriella**
-    - [x]  Gerar Holerite **- Diego**
-    - [x]  Alterar senha dos funcionarios **- Diego**
-- [x]  Criar a Maquina Virtual (Virtual Machine) com Windows Server para hospedar o MS SQL Server **- Todos da equipe**
-- [x]  Instalar, configurar o MS SQL Server **- Todos da equipe**
-- [x]  Revisar a estrutura do banco de dados **- Todos da equipe**
-- [ ]  Criar o Banco de dados do sistema  **- Todos da equipe**
-- [ ]  Conectar os sistemas ao banco de dados **- João e Diego**
-    - [ ]  Conectar o sistema Desktop com o BD **- Diego**
-    - [x]  Conectar o sistema Web com o BD **- João**
-    - [ ]  Conectar o sistema Mobile com o BD **- João**
+- [x] Revisar o diagrama de sequência
+  - [x] Entrar no sistema **- Matheus**
+  - [x] Sair do sistema **- Matheus**
+  - [x] Gerar folha de pagamento
+  - [x] Função Criar (create) **- João**
+  - [x] Função Visualizar (read) **- João**
+  - [x] Função Editar (update) **- João**
+  - [x] Função Deletar/Inativar (delete) **- Marco**
+  - [x] Função Buscar **- Marco**
+  - [x] Visualizar Perfil **- Victor**
+  - [x] Alterar propria senha **- Victor**
+  - [x] Visualizar Holerites no Mobile **- Gabriella**
+  - [x] Visualizar Operações no Mobile **- Gabriella**
+  - [x] Gerar Holerite **- Diego**
+  - [x] Alterar senha dos funcionarios **- Diego**
+- [x] Criar a Maquina Virtual (Virtual Machine) com Windows Server para hospedar o MS SQL Server **- Todos da equipe**
+- [x] Instalar, configurar o MS SQL Server **- Todos da equipe**
+- [x] Revisar a estrutura do banco de dados **- Todos da equipe**
+- [x] Criar o Banco de dados do sistema **- Todos da equipe**
+- [x] Conectar os sistemas ao banco de dados **- João e Diego**
+  - [x] Conectar o sistema Desktop com o BD **- Diego**
+  - [x] Conectar o sistema Web com o BD **- João**
+  - [x] Conectar o sistema Mobile com o BD **- João**
 
 ## Sprint backlog 4 - (04/09 até 10/09)
 
-- [ ]  Todas as telas desktop (Somente a tela vazia para navegação) **- Diego**
-- [ ]  Tela da Tabela de Perfil desktop (Controle de permissões) **- João**
-    1. Inserir Modulos no banco de dados
-    2. Visualizar todos os perfis (Em tabela)
-    3. Busca
-    4. Visualizar individual
-    5. Criar 
-    6. Editar
-    7. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
-- [ ]  Tela de Login desktop **- Gabriella**
-- [ ]  Menu desktop (Fazendo a validação dos perfis dos usuários) **- Matheus**
-- [ ]  Tela de Tabela de Estabelecimento desktop **- Marco**
-    1. Visualizar todos (Em tabela)
-    2. Busca
-    3. Visualizar individual
-    4. Criar
-    5. Editar
-    6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
-- [ ]  Tela de Tabela de Cargo desktop **- Victor**
-    1. Visualizar todos (Em tabela)
-    2. Busca
-    3. Visualizar individual
-    4. Criar
-    5. Editar
-    6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
+- [ ] Todas as telas desktop (Somente a tela vazia para navegação) **- Diego**
+- [ ] Tela da Tabela de Perfil desktop (Controle de permissões) **- João**
+  1. Inserir Modulos no banco de dados
+  2. Visualizar todos os perfis (Em tabela)
+  3. Busca
+  4. Visualizar individual
+  5. Criar
+  6. Editar
+  7. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
+- [ ] Tela de Login desktop **- Gabriella**
+- [ ] Menu desktop (Fazendo a validação dos perfis dos usuários) **- Matheus**
+- [ ] Tela de Tabela de Estabelecimento desktop **- Marco**
+  1. Visualizar todos (Em tabela)
+  2. Busca
+  3. Visualizar individual
+  4. Criar
+  5. Editar
+  6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
+- [ ] Tela de Tabela de Cargo desktop **- Victor**
+  1. Visualizar todos (Em tabela)
+  2. Busca
+  3. Visualizar individual
+  4. Criar
+  5. Editar
+  6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
 
 ## Sprint backlog 5 - (11/09 até 17/09)
 
-- [ ]  Tela de Tabela de Operações disponíveis desktop
-    1. Visualizar todos (Em tabela)
-    2. Busca
-    3. Visualizar individual
-    4. Criar
-    5. Editar
-    6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
-- [ ]  Tela de Tabela de Operações desktop
-    1. Visualizar todos (Em tabela)
-    2. Busca
-    3. Visualizar individual
-    4. Criar
-    5. Editar
-    6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
-- [ ]  Tela de Funcionarios desktop
-    1. Visualizar todos (Em tabela)
-    2. Busca
-    3. Visualizar individual
-    4. Criar
-    5. Editar
-    6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
-- [ ]  Tela de Perfil desktop
-- [ ]  Tela de Estabelecimentos de funcionarios desktop
-    1. Visualizar todos (Em tabela)
-    2. Busca
-    3. Visualizar individual
-    4. Criar
-    5. Editar
-    6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
-- [ ]  Tela de Cargos dos funcionarios desktop
-    1. Visualizar todos (Em tabela)
-    2. Busca
-    3. Visualizar individual
-    4. Criar
-    5. Editar
-    6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
+- [ ] Tela de Tabela de Operações disponíveis desktop
+  1. Visualizar todos (Em tabela)
+  2. Busca
+  3. Visualizar individual
+  4. Criar
+  5. Editar
+  6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
+- [ ] Tela de Tabela de Operações desktop
+  1. Visualizar todos (Em tabela)
+  2. Busca
+  3. Visualizar individual
+  4. Criar
+  5. Editar
+  6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
+- [ ] Tela de Funcionarios desktop
+  1. Visualizar todos (Em tabela)
+  2. Busca
+  3. Visualizar individual
+  4. Criar
+  5. Editar
+  6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
+- [ ] Tela de Perfil desktop
+- [ ] Tela de Estabelecimentos de funcionarios desktop
+  1. Visualizar todos (Em tabela)
+  2. Busca
+  3. Visualizar individual
+  4. Criar
+  5. Editar
+  6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
+- [ ] Tela de Cargos dos funcionarios desktop
+  1. Visualizar todos (Em tabela)
+  2. Busca
+  3. Visualizar individual
+  4. Criar
+  5. Editar
+  6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
 
 ## Sprint Backlog 6 - (18/09 até 24/09)
 
-- [ ]  Tela de Operações de funcionarios desktop
-    1. Visualizar todos (Em tabela)
-    2. Busca
-    3. Visualizar individual
-    4. Criar
-    5. Editar
-    6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
-- [ ]  Tela de Holerites desktop
-    1. Visualizar todos (Em tabela)
-    2. Busca
-    3. Visualizar individual
-    4. Criar
-    5. Editar
-    6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
-- [ ]  Tela de Folha de Pagamento desktop
-    1. Visualizar todos (Em tabela)
-    2. Busca
-    3. Visualizar individual
-    4. Criar
-    5. Editar
-    6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
+- [ ] Tela de Operações de funcionarios desktop
+  1. Visualizar todos (Em tabela)
+  2. Busca
+  3. Visualizar individual
+  4. Criar
+  5. Editar
+  6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
+- [ ] Tela de Holerites desktop
+  1. Visualizar todos (Em tabela)
+  2. Busca
+  3. Visualizar individual
+  4. Criar
+  5. Editar
+  6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
+- [ ] Tela de Folha de Pagamento desktop
+  1. Visualizar todos (Em tabela)
+  2. Busca
+  3. Visualizar individual
+  4. Criar
+  5. Editar
+  6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
 
 ## Sprint backlog 7 - (25/09 até 01/10)
 
-- [ ]  Tela de Login web
-- [ ]  Menu (Tela principal) web
-- [ ]  Tela do Perfil web
-- [ ]  Tela de Operações web
-- [ ]  Tela do Holerite (Tabela) web
-    1. Busca
-    2. Visualizar (Gerar pdf)
+- [ ] Tela de Login web
+- [ ] Menu (Tela principal) web
+- [ ] Tela do Perfil web
+- [ ] Tela de Operações web
+- [ ] Tela do Holerite (Tabela) web
+  1. Busca
+  2. Visualizar (Gerar pdf)
 
 ## Sprint backlog 8 - (02/10 até 08/10)
 
-- [ ]  Tela de Login mobile
-- [ ]  Menu (Tela principal) mobile
-- [ ]  Tela do Perfil mobile
-- [ ]  Tela de Operações mobile
-- [ ]  Tela do Holerite (Tabela) mobile
-    1. Busca
-    2. Visualizar (Gerar pdf)
+- [ ] Tela de Login mobile
+- [ ] Menu (Tela principal) mobile
+- [ ] Tela do Perfil mobile
+- [ ] Tela de Operações mobile
+- [ ] Tela do Holerite (Tabela) mobile
+  1. Busca
+  2. Visualizar (Gerar pdf)
 
 ## Sprint backlog 9 - (09/10 até 15/10)
 
-- [ ]  Montar o documento do pim
-- [ ]  Revisar o documento antigo, Refatorando com os pontos levantados pelos professores (Pedro)
-- [ ]  Adicionar o conteúdo do desenvolvimento do projeto do pim passado no pim novo
-- [ ]  O sistema deve ter relatórios parciais, diários e consolidados mensalmente, gráficos, alertas etc
-- [ ]  INTRODUÇÃO
-- [ ]  Atividade Proposta de Extensão Universitária
+- [ ] Montar o documento do pim
+- [ ] Revisar o documento antigo, Refatorando com os pontos levantados pelos professores (Pedro)
+- [ ] Adicionar o conteúdo do desenvolvimento do projeto do pim passado no pim novo
+- [ ] O sistema deve ter relatórios parciais, diários e consolidados mensalmente, gráficos, alertas etc
+- [ ] INTRODUÇÃO
+- [ ] Atividade Proposta de Extensão Universitária
 
 ## Sprint backlog 10 - (16/10 até 22/10)
 
-- [ ]  PROGRAMAÇÃO ORIENTADA A OBJETOS II
-- [ ]  DESENVOLVIMENTO DE SOFTWARE PARA INTERNET
-- [ ]  TÓPICOS ESPECIAIS DE PROGRAMAÇÃO ORIENTADA A OBJETOS
-- [ ]  PROJETO DE SISTEMAS ORIENTADO A OBJETOS
-- [ ]  GERENCIAMENTO DE PROJETO DE SOFTWARE
-- [ ]  EMPREENDEDORISMO
+- [ ] PROGRAMAÇÃO ORIENTADA A OBJETOS II
+- [ ] DESENVOLVIMENTO DE SOFTWARE PARA INTERNET
+- [ ] TÓPICOS ESPECIAIS DE PROGRAMAÇÃO ORIENTADA A OBJETOS
+- [ ] PROJETO DE SISTEMAS ORIENTADO A OBJETOS
+- [ ] GERENCIAMENTO DE PROJETO DE SOFTWARE
+- [ ] EMPREENDEDORISMO
 
 ## Sprint backlog 11 - (16/10 até 22/10)
 
-- [ ]  GESTÃO DA QUALIDADE
-- [ ]  CONCLUSÃO
-- [ ]  RESUMO
-- [ ]  REFERÊNCIAS
-- [ ]  Ajustes Finais no Documento
-- [ ]  cenário bem detalhado (regras do negócio, glossário do sistema, pesquisa de programas no mercado e livros sobre o tema sistema para automatização total da folha de pagamento de uma empresa, análise do mercado). Definir e justificar o ciclo de vida de desenvolvimento de software.
+- [ ] GESTÃO DA QUALIDADE
+- [ ] CONCLUSÃO
+- [ ] RESUMO
+- [ ] REFERÊNCIAS
+- [ ] Ajustes Finais no Documento
+- [ ] cenário bem detalhado (regras do negócio, glossário do sistema, pesquisa de programas no mercado e livros sobre o tema sistema para automatização total da folha de pagamento de uma empresa, análise do mercado). Definir e justificar o ciclo de vida de desenvolvimento de software.
 
 ## Sprint backlog 12 - (30/10 até 05/11)
 
-- [ ]  Descrever os requisitos dos usuários, requisitos funcionais, não- funcionais, e do sistema (usabilidade, desempenho, capacidade etc.);
-- [ ]  manual de uso do sistema
-- [ ]  Elaborar todos os principais modelos de casos de uso para cada cenário e criar o arquivo descritivo de cada caso de uso. Cada caso de uso deve ter uma descrição suscinta do seu comportamento, dos fluxos principais, alternativos e de exceção e pré e pós-condições
-- [ ]  Elaborar os diagramas de classes de análise (Boundary, Control, Entity)
-- [ ]  Demonstrar o comportamento dos casos de uso através do diagrama de sequência.
-- [ ]  Diagrama de implantação (definir quantos servidores, banco de dados, estrutura utilizada para o sistema e como instalar o sistema)
+- [ ] Descrever os requisitos dos usuários, requisitos funcionais, não- funcionais, e do sistema (usabilidade, desempenho, capacidade etc.);
+- [ ] manual de uso do sistema
+- [ ] Elaborar todos os principais modelos de casos de uso para cada cenário e criar o arquivo descritivo de cada caso de uso. Cada caso de uso deve ter uma descrição suscinta do seu comportamento, dos fluxos principais, alternativos e de exceção e pré e pós-condições
+- [ ] Elaborar os diagramas de classes de análise (Boundary, Control, Entity)
+- [ ] Demonstrar o comportamento dos casos de uso através do diagrama de sequência.
+- [ ] Diagrama de implantação (definir quantos servidores, banco de dados, estrutura utilizada para o sistema e como instalar o sistema)
 
 ## Sprint backlog 13 - (06/11 até 12/11)
 
-- [ ]  Anexar o Diagrama ER do banco de dados e o dicionário de dados.
-- [ ]  Anexar o script de criação do banco (usar uma ferramenta) e scripts de dados iniciais de testes (roteiros de teste) e homologação do sistema;
-- [ ]  Anexar planilhas de testes para homologação do sistema, identificando como produzir as evidências do teste e as querys no banco
-- [ ]  Anexar relatórios de gestão para análise de evolução dos negócios, análise de mercado, desempenho dos funcionários (RH) etc
+- [ ] Anexar o Diagrama ER do banco de dados e o dicionário de dados.
+- [ ] Anexar o script de criação do banco (usar uma ferramenta) e scripts de dados iniciais de testes (roteiros de teste) e homologação do sistema;
+- [ ] Anexar planilhas de testes para homologação do sistema, identificando como produzir as evidências do teste e as querys no banco
+- [ ] Anexar relatórios de gestão para análise de evolução dos negócios, análise de mercado, desempenho dos funcionários (RH) etc
 
 ## Sprint backlog 14 - (13/11 até 19/11)
 
-- [ ]  Ajustes finais na programação
-- [ ]  Ajustes finais no documento
+- [ ] Ajustes finais na programação
+- [ ] Ajustes finais no documento
 
 ---
 
@@ -367,7 +367,7 @@
 
 ### Caso de uso geral do Desktop
 
-![Caso de Uso Syspayment-Geral Desktop.drawio (1).png](Projeto%20de%20desenvolvimento%20-%20Folha%20de%20pagamento%20a1b16bd8f968440db7c3ec96ae11894c/Caso_de_Uso_Syspayment-Geral_Desktop.drawio_(1).png)
+![Caso de Uso Syspayment-Geral Desktop.drawio (1).png](<Projeto%20de%20desenvolvimento%20-%20Folha%20de%20pagamento%20a1b16bd8f968440db7c3ec96ae11894c/Caso_de_Uso_Syspayment-Geral_Desktop.drawio_(1).png>)
 
 ### Caso de uso especifico do Desktop
 
@@ -393,7 +393,7 @@
 
 ![Caso de Uso Syspayment-Estabelecimento.drawio.png](Projeto%20de%20desenvolvimento%20-%20Folha%20de%20pagamento%20a1b16bd8f968440db7c3ec96ae11894c/Caso_de_Uso_Syspayment-Estabelecimento.drawio.png)
 
-![Caso de Uso Syspayment-Perfil.drawio (1).png](Projeto%20de%20desenvolvimento%20-%20Folha%20de%20pagamento%20a1b16bd8f968440db7c3ec96ae11894c/Caso_de_Uso_Syspayment-Perfil.drawio_(1).png)
+![Caso de Uso Syspayment-Perfil.drawio (1).png](<Projeto%20de%20desenvolvimento%20-%20Folha%20de%20pagamento%20a1b16bd8f968440db7c3ec96ae11894c/Caso_de_Uso_Syspayment-Perfil.drawio_(1).png>)
 
 ### Caso de uso do Mobile/Web
 
@@ -424,27 +424,27 @@
 ### **Telas e Funções Gerais:**
 
 1. **Visualização das Informações em Tabelas:**
-    - Os usuários devem ser capazes de visualizar informações em tabelas de forma organizada e legível.
-    - As tabelas devem apresentar dados relevantes, como funcionários, cargos, operações, etc.
+   - Os usuários devem ser capazes de visualizar informações em tabelas de forma organizada e legível.
+   - As tabelas devem apresentar dados relevantes, como funcionários, cargos, operações, etc.
 2. **Campo de Busca:**
-    - Cada tela de visualização deve conter um campo de busca para permitir aos usuários encontrar informações específicas nas tabelas.
-    - O campo de busca deve realizar buscas em tempo real enquanto o usuário digita.
+   - Cada tela de visualização deve conter um campo de busca para permitir aos usuários encontrar informações específicas nas tabelas.
+   - O campo de busca deve realizar buscas em tempo real enquanto o usuário digita.
 3. **Tela de Login:**
-    - Uma tela de login segura deve ser fornecida para autenticação dos usuários.
-    - Deve haver campos para inserir nome de usuário (ou email) e senha.
+   - Uma tela de login segura deve ser fornecida para autenticação dos usuários.
+   - Deve haver campos para inserir nome de usuário (ou email) e senha.
 4. **Menu de Acesso:**
-    - Deve existir um menu de acesso que varie de acordo com o perfil do usuário.
-    - O menu deve exibir opções de acordo com as permissões atribuídas ao perfil.
+   - Deve existir um menu de acesso que varie de acordo com o perfil do usuário.
+   - O menu deve exibir opções de acordo com as permissões atribuídas ao perfil.
 5. **CRUD para Perfil:**
-    - Os administradores devem poder criar, ler, atualizar e excluir perfis de usuário.
+   - Os administradores devem poder criar, ler, atualizar e excluir perfis de usuário.
 6. **CRUD para Estabelecimento:**
-    - Os administradores devem poder criar, ler, atualizar e excluir informações sobre estabelecimentos.
+   - Os administradores devem poder criar, ler, atualizar e excluir informações sobre estabelecimentos.
 7. **CRUD para Cargo:**
-    - Os administradores devem poder criar, ler, atualizar e excluir informações sobre cargos.
+   - Os administradores devem poder criar, ler, atualizar e excluir informações sobre cargos.
 8. **CRUD para Operações Disponíveis:**
-    - Os administradores devem poder gerenciar as operações disponíveis, que podem ser atribuídas aos funcionários.
+   - Os administradores devem poder gerenciar as operações disponíveis, que podem ser atribuídas aos funcionários.
 9. **CRUD para Operações:**
-    - Os administradores devem poder criar, ler, atualizar e excluir informações sobre operações específicas.
+   - Os administradores devem poder criar, ler, atualizar e excluir informações sobre operações específicas.
 10. **CRUD para Funcionários:**
     - Os administradores devem poder criar, ler, atualizar e excluir informações sobre funcionários.
 11. **CRUD para Vincular Cargos a Funcionários:**
@@ -463,26 +463,26 @@
 ## **Requisitos Não Funcionais:**
 
 1. **Segurança:**
-    - O sistema deve implementar autenticação segura para proteger os dados sensíveis.
-    - Deve haver níveis de acesso diferentes, garantindo que os usuários vejam apenas as informações relevantes para suas funções.
+   - O sistema deve implementar autenticação segura para proteger os dados sensíveis.
+   - Deve haver níveis de acesso diferentes, garantindo que os usuários vejam apenas as informações relevantes para suas funções.
 2. **Desempenho:**
-    - O sistema deve ser responsivo, garantindo tempos de carregamento rápidos para as diferentes telas.
-    - Consultas às informações devem ser eficientes para evitar atrasos.
+   - O sistema deve ser responsivo, garantindo tempos de carregamento rápidos para as diferentes telas.
+   - Consultas às informações devem ser eficientes para evitar atrasos.
 3. **Usabilidade:**
-    - A interface do usuário deve ser intuitiva e fácil de usar, mesmo para usuários não técnicos.
-    - As operações devem ser autoexplicativas e minimizar a possibilidade de erros.
+   - A interface do usuário deve ser intuitiva e fácil de usar, mesmo para usuários não técnicos.
+   - As operações devem ser autoexplicativas e minimizar a possibilidade de erros.
 4. **Escalabilidade:**
-    - O sistema deve ser projetado para lidar com um aumento no número de funcionários, cargos, estabelecimentos, etc.
+   - O sistema deve ser projetado para lidar com um aumento no número de funcionários, cargos, estabelecimentos, etc.
 5. **Compatibilidade:**
-    - A interface web deve ser compatível com uma variedade de navegadores modernos.
-    - A aplicação móvel deve ser desenvolvida para plataformas populares (iOS e Android).
+   - A interface web deve ser compatível com uma variedade de navegadores modernos.
+   - A aplicação móvel deve ser desenvolvida para plataformas populares (iOS e Android).
 6. **Documentação:**
-    - Deve haver documentação detalhada que explique como usar cada funcionalidade do sistema.
-    - Um manual passo a passo deve ser fornecido para auxiliar os usuários em suas tarefas.
+   - Deve haver documentação detalhada que explique como usar cada funcionalidade do sistema.
+   - Um manual passo a passo deve ser fornecido para auxiliar os usuários em suas tarefas.
 7. **Confiabilidade:**
-    - O sistema deve ser confiável e minimizar a ocorrência de erros, especialmente ao gerar folhas de pagamento e holerites.
+   - O sistema deve ser confiável e minimizar a ocorrência de erros, especialmente ao gerar folhas de pagamento e holerites.
 8. **Privacidade:**
-    - Os dados dos funcionários e suas informações pessoais devem ser tratados com confidencialidade e em conformidade com regulamentações de privacidade.
+   - Os dados dos funcionários e suas informações pessoais devem ser tratados com confidencialidade e em conformidade com regulamentações de privacidade.
 
 ---
 
@@ -516,11 +516,11 @@
 
 ![Diagrama sem nome.drawio.png](Projeto%20de%20desenvolvimento%20-%20Folha%20de%20pagamento%20a1b16bd8f968440db7c3ec96ae11894c/Diagrama_sem_nome.drawio.png)
 
-![Diagrama sem nome-Page-1.drawio (1).png](Projeto%20de%20desenvolvimento%20-%20Folha%20de%20pagamento%20a1b16bd8f968440db7c3ec96ae11894c/Diagrama_sem_nome-Page-1.drawio_(1).png)
+![Diagrama sem nome-Page-1.drawio (1).png](<Projeto%20de%20desenvolvimento%20-%20Folha%20de%20pagamento%20a1b16bd8f968440db7c3ec96ae11894c/Diagrama_sem_nome-Page-1.drawio_(1).png>)
 
 ![diagramas de classe-sequencia login.drawio.png](Projeto%20de%20desenvolvimento%20-%20Folha%20de%20pagamento%20a1b16bd8f968440db7c3ec96ae11894c/diagramas_de_classe-sequencia_login.drawio.png)
 
-![diagramas de classe-Alterar perfil.drawio (1).png](Projeto%20de%20desenvolvimento%20-%20Folha%20de%20pagamento%20a1b16bd8f968440db7c3ec96ae11894c/diagramas_de_classe-Alterar_perfil.drawio_(1).png)
+![diagramas de classe-Alterar perfil.drawio (1).png](<Projeto%20de%20desenvolvimento%20-%20Folha%20de%20pagamento%20a1b16bd8f968440db7c3ec96ae11894c/diagramas_de_classe-Alterar_perfil.drawio_(1).png>)
 
 ## Diagrama Entidade Relacionamento
 
@@ -529,3 +529,184 @@
 ## Diagrama Logico
 
 ![Untitled](Projeto%20de%20desenvolvimento%20-%20Folha%20de%20pagamento%20a1b16bd8f968440db7c3ec96ae11894c/Untitled%206.png)
+
+## Diagrama Físico
+
+CREATE DATABASE syspayment;
+
+USE syspayment;
+
+CREATE TABLE Funcionario_Usuario (
+dta_admissao DATE,
+hora_inicio TIME,
+hora_final TIME,
+id INTEGER PRIMARY KEY,
+sexo CHAR,
+nome VARCHAR,
+cpf VARCHAR,
+tel VARCHAR,
+email VARCHAR,
+qnt_dependentes INTEGER,
+dta_nasc DATE,
+usuario VARCHAR,
+senha VARCHAR,
+ult_acesso DATE,
+fk_Perfil_id INTEGER,
+cep VARCHAR,
+cidade VARCHAR,
+estado VARCHAR,
+pais VARCHAR,
+rua VARCHAR,
+bairro VARCHAR,
+numero INTEGER,
+complemento VARCHAR
+);
+
+CREATE TABLE Perfil (
+id INTEGER PRIMARY KEY,
+descr VARCHAR
+);
+
+CREATE TABLE Operacao_funcionario (
+id INTEGER PRIMARY KEY,
+dta_de DATE,
+dta_ate DATE,
+fk_Funcionario_Usuario_id INTEGER,
+fk_Operacoes_id INTEGER
+);
+
+CREATE TABLE Operacoes (
+id INTEGER PRIMARY KEY,
+valor DECIMAL,
+operacao CHAR,
+percentual DECIMAL,
+fk_Operacoes_desc_id INTEGER,
+tipo_salario CHAR,
+bloqueia_login CHAR
+);
+
+CREATE TABLE Cargo (
+id INTEGER PRIMARY KEY,
+descr VARCHAR,
+cbo VARCHAR,
+Periculosidade CHAR
+);
+
+CREATE TABLE Estabelecimento (
+id INTEGER PRIMARY KEY,
+cnpj VARCHAR,
+nome VARCHAR,
+filial VARCHAR
+);
+
+CREATE TABLE Holerite (
+id INTEGER PRIMARY KEY,
+dta_base DATE,
+salario_base DECIMAL,
+total_vencimento DECIMAL,
+total_desconto DECIMAL,
+sal_contr_inss DECIMAL,
+base_calc_fgts DECIMAL,
+base_calc_irf DECIMAL,
+faixa_irf DECIMAL,
+fk_Funcionario_Usuario_id INTEGER,
+fk_Folha_de_Pagamento_id INTEGER
+);
+
+CREATE TABLE Cargo_func (
+id INTEGER PRIMARY KEY,
+dta_de DATE,
+dta_ate DATE,
+fk_Funcionario_Usuario_id INTEGER,
+fk_Cargo_id INTEGER
+);
+
+CREATE TABLE Estab_func (
+id INTEGER PRIMARY KEY,
+data_ent DATE,
+data_sai DATE,
+fk_Estabelecimento_id INTEGER,
+fk_Funcionario_Usuario_id INTEGER
+);
+
+CREATE TABLE Modulo (
+id INTEGER PRIMARY KEY,
+descr VARCHAR
+);
+
+CREATE TABLE Perfil_modulo (
+id INTEGER PRIMARY KEY,
+fk_Perfil_id INTEGER,
+fk_Modulo_id INTEGER
+);
+
+CREATE TABLE Operacoes_desc (
+id INTEGER PRIMARY KEY,
+descr VARCHAR
+);
+
+CREATE TABLE Folha_de_Pagamento (
+id INTEGER PRIMARY KEY,
+dta_base DATE,
+valor_total DECIMAL
+);
+
+ALTER TABLE Funcionario_Usuario ADD CONSTRAINT FK_Funcionario_Usuario_2
+FOREIGN KEY (fk_Perfil_id)
+REFERENCES Perfil (id)
+ON DELETE CASCADE;
+
+ALTER TABLE Operacao_funcionario ADD CONSTRAINT FK_Operacao_funcionario_2
+FOREIGN KEY (fk_Funcionario_Usuario_id)
+REFERENCES Funcionario_Usuario (id)
+ON DELETE CASCADE;
+
+ALTER TABLE Operacao_funcionario ADD CONSTRAINT FK_Operacao_funcionario_3
+FOREIGN KEY (fk_Operacoes_id)
+REFERENCES Operacoes (id)
+ON DELETE CASCADE;
+
+ALTER TABLE Operacoes ADD CONSTRAINT FK_Operacoes_2
+FOREIGN KEY (fk_Operacoes_desc_id)
+REFERENCES Operacoes_desc (id)
+ON DELETE CASCADE;
+
+ALTER TABLE Holerite ADD CONSTRAINT FK_Holerite_2
+FOREIGN KEY (fk_Funcionario_Usuario_id)
+REFERENCES Funcionario_Usuario (id)
+ON DELETE CASCADE;
+
+ALTER TABLE Holerite ADD CONSTRAINT FK_Holerite_3
+FOREIGN KEY (fk_Folha_de_Pagamento_id)
+REFERENCES Folha_de_Pagamento (id)
+ON DELETE CASCADE;
+
+ALTER TABLE Cargo_func ADD CONSTRAINT FK_Cargo_func_2
+FOREIGN KEY (fk_Funcionario_Usuario_id)
+REFERENCES Funcionario_Usuario (id)
+ON DELETE CASCADE;
+
+ALTER TABLE Cargo_func ADD CONSTRAINT FK_Cargo_func_3
+FOREIGN KEY (fk_Cargo_id)
+REFERENCES Cargo (id)
+ON DELETE CASCADE;
+
+ALTER TABLE Estab_func ADD CONSTRAINT FK_Estab_func_2
+FOREIGN KEY (fk_Estabelecimento_id)
+REFERENCES Estabelecimento (id)
+ON DELETE CASCADE;
+
+ALTER TABLE Estab_func ADD CONSTRAINT FK_Estab_func_3
+FOREIGN KEY (fk_Funcionario_Usuario_id)
+REFERENCES Funcionario_Usuario (id)
+ON DELETE CASCADE;
+
+ALTER TABLE Perfil_modulo ADD CONSTRAINT FK_Perfil_modulo_2
+FOREIGN KEY (fk_Perfil_id)
+REFERENCES Perfil (id)
+ON DELETE CASCADE;
+
+ALTER TABLE Perfil_modulo ADD CONSTRAINT FK_Perfil_modulo_3
+FOREIGN KEY (fk_Modulo_id)
+REFERENCES Modulo (id)
+ON DELETE CASCADE;
