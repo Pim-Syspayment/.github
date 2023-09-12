@@ -204,7 +204,7 @@
 
 ## Sprint backlog 4 - (04/09 até 10/09)
 
-- [ ] Todas as telas desktop (Somente a tela vazia para navegação) **- Diego**
+- [x] Todas as telas desktop (Somente a tela vazia para navegação) **- Diego**
 - [ ] Tela da Tabela de Perfil desktop (Controle de permissões) **- João**
   1. Inserir Modulos no banco de dados
   2. Visualizar todos os perfis (Em tabela)
@@ -214,7 +214,7 @@
   6. Editar
   7. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
 - [ ] Tela de Login desktop **- Gabriella**
-- [ ] Menu desktop (Fazendo a validação dos perfis dos usuários) **- Matheus**
+- [x] Menu desktop (Fazendo a validação dos perfis dos usuários) **- Matheus**
 - [ ] Tela de Tabela de Estabelecimento desktop **- Marco**
   1. Visualizar todos (Em tabela)
   2. Busca
